@@ -1,7 +1,7 @@
 package com.chuyendeweb.service;
 
 public interface IElasticSearch {
-//	void documentElasticSearch();
+	void documentElasticSearch();
 //
 //	List<Object> searchElastiProduct(String keywords);
 //
